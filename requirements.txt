@@ -1,0 +1,13 @@
+# TP Regresion - Aprendizaje Automatico 1
+# Instalacion:  python -m venv .venv && .venv/bin/pip install -r requirements.txt
+
+pandas==3.0.5
+numpy==2.5.2
+scipy==1.18.1
+scikit-learn==1.9.0
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Para abrir y ejecutar el notebook
+ipykernel==7.3.0
+jupyterlab
